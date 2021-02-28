@@ -1,0 +1,12 @@
+v1.1.5
+    - added DAG_changelog.txt
+    - added Auto Map Pins 1.0.0
+    - added Quickconnect 1.0.0
+    - updated Anyportal to 1.0.3
+    - updated Craft Build Smelt Cook Fuel Pull From Containers to 1.4.2
+
+v1.1.4a:
+    - updated AnyPortal to 1.0.1
+    - updated Craft Build Smelt Cook Fuel Pull From Containers to 1.3.2
+
+Previous version have not been tracked! :( 
