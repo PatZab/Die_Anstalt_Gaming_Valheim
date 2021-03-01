@@ -1,4 +1,6 @@
 v1.1.6:
+    - added Wattle Fencing (Fence Replacement)
+    - added CustomMeshes
     - added Simple Recycling
     - updated BetterUI to 1.4.0
     - updated Quickconnect to 1.2.0
