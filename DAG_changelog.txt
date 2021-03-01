@@ -7,7 +7,7 @@ v1.1.6:
     - updated Quickconnect to 1.2.0
     - updated Craft From Containers to 1.4.3
     - updated InteractWhileBuilding to 1.0.0
-    - updated Discard Inventory Items to 0.2.0
+    - updated Discard Inventory Items to 0.3.0
     
 v1.1.5:
     - added DAG_changelog.txt
