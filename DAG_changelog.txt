@@ -1,4 +1,5 @@
 v1.1.6:
+    - added Skillbased Carryweight
     - added Wattle Fencing (Fence Replacement)
     - added CustomMeshes
     - added Simple Recycling
