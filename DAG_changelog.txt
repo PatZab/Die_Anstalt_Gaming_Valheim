@@ -1,5 +1,11 @@
+v1.2.0
+    - added Automatic Door 0.0.1
+    - updated Valheim Plus to 0.9.3
+    - updated Custom Textures to 1.1.2
+    - updated Berry Planting to 1.1.1
+
 v1.1.8:
-    - added BepInEx Valheim Full Updater 1.0.2
+    
     - added Berry Planting 1.0.0.0
     - added Custom Textures 1.0.1
     - added Floating Items 1.0.0
