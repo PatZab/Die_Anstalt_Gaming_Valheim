@@ -1,3 +1,13 @@
+v1.3.0
+    - updated Valheim Plus to 0.9.4
+    - updated Simple Recycling to 0.0.7
+    - updated AnyPortal to 1.0.4
+    - updated Automatic Door to 0.0.3
+    - updated Valheim Build Camera to 1.4
+    - updated Tree Respawn to 0.2.0
+    - updated Berry Planting to 1.2
+    - removed Character Backup
+
 v1.2.0
     - added Automatic Door 0.0.1
     - updated Valheim Plus to 0.9.3
