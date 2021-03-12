@@ -1,3 +1,17 @@
+v1.3.5:
+    - added Useful Paths 1.0.0
+    - added Event Enhancer 0.1 (Server Side Only)
+    - updated Custom Textures to 1.7.1
+    - updated Tree Respawn to 0.5.0
+    - updated Simple Recycling to 0.0.11
+    - updated Custom Meshes to 0.1.5
+    - updated Automatic Door to Mod 0.0.5
+    - updated Planting Plus to 1.4.5
+    - updated BetterUI to 1.5.1 
+    - updated Craft From Containers to 1.9.0
+    - removed Auto Map Pins
+
+
 v1.3.0
     - updated Valheim Plus to 0.9.4
     - updated Simple Recycling to 0.0.7
