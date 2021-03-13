@@ -1,3 +1,16 @@
+v1.4.0:
+    - removed ClockMod
+    - removed Simple Recycling
+    - removed Durability
+    - removed Build Helper
+    - added Smart Containers 1.2.1
+    - added Farm Grid 0.2.0
+    - added Useful Trophies 1.1.0
+    - added Better Trader 1.0.2
+    - updated Valheim Plus to 0.9.5.1
+    - updated Useful Paths to 1.0.4
+
+
 v1.3.5:
     - added Useful Paths 1.0.0
     - added Event Enhancer 0.1 (Server Side Only)
