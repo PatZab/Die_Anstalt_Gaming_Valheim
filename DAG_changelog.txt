@@ -1,3 +1,16 @@
+v1.5.0:
+    - updated ValheimPlus to 0.9.5.5
+    - updated CustomMeshes to 0.2.0
+    - updated UseEquipmentInWater to 0.2.2
+    - updated DiscardInventoryItems to 0.3.6
+    - updated AutomaticDoorMod to 0.2.0
+    - updated BetterTrader to 1.0.4
+    - updated UsefulPaths to 1.0.5
+    - updated CustomTextures to 2.0.1
+    - updated SmartContainers to 1.4.5
+    - added SkillGiveMoreCarryWeight 1.0.1
+    - removed Skillbased Carryweight 
+
 v1.4.0:
     - removed ClockMod
     - removed Simple Recycling
