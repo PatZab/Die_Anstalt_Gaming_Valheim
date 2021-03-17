@@ -1,3 +1,8 @@
+v1.6.0:
+    - added CreatureLevelAndLootControl 1.4
+    - added EmoteWheel 1.2.1
+    - added MassFarmin 1.1
+
 v1.5.0:
     - updated ValheimPlus to 0.9.5.5
     - updated CustomMeshes to 0.2.0
