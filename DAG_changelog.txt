@@ -6,6 +6,7 @@ Mods in use:
     - BetterUI 1.5.1 
     - CraftFromContainers 1.9.0
     - CreatureLevelAndLootControl 1.4
+    - CustomServerLoadingScreen 0.2.1
     - CustomMeshes 0.2.0
     - CustomTextures 2.0.1
     - DiscardInventoryItems 0.3.6
@@ -24,6 +25,10 @@ Mods in use:
     - UsefulTrophies 1.1.0
     - ValheimBuildCamera 1.4
     - ValheimPlus 0.9.5.5
+
+v1.7.0:
+    - added CustomServerLoadingScreen 0.2.1
+    - updated CreatureLevelAndLootControl to 1.5.1
 
 v1.6.0:
     - added CreatureLevelAndLootControl 1.4
