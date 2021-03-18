@@ -6,8 +6,9 @@ Mods in use:
     - BetterUI 1.5.1 
     - CraftFromContainers 1.9.0
     - CreatureLevelAndLootControl 1.4
-    - CustomServerLoadingScreen 0.2.1
     - CustomMeshes 0.2.0
+    - CustomRaids 1.0.2
+    - CustomServerLoadingScreen 0.2.1
     - CustomTextures 2.0.1
     - DiscardInventoryItems 0.3.6
     - EmoteWheel 1.2.1
@@ -25,6 +26,11 @@ Mods in use:
     - UsefulTrophies 1.1.0
     - ValheimBuildCamera 1.4
     - ValheimPlus 0.9.5.5
+
+v1.8.0:
+    - added CustomRaids 1.0.2
+    - removed ValheimEventEnhancer
+
 
 v1.7.0:
     - added CustomServerLoadingScreen 0.2.1
@@ -47,7 +53,6 @@ v1.5.0:
     - updated SmartContainers to 1.4.5
     - added SkillGiveMoreCarryWeight 1.0.1
     - removed Skillbased Carryweight 
-    - removed EventEnhancer 0.1 (Server Side Only)
 
 v1.4.0:
     - removed ClockMod
