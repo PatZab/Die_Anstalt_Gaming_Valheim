@@ -24,8 +24,14 @@ Mods in use:
     - UseEquipmentInWater 0.2.2
     - UsefulPaths 1.0.5
     - UsefulTrophies 1.1.0
-    - ValheimBuildCamera 1.4
+    - ValheimBuildCamera
     - ValheimPlus 0.9.5.5
+
+v1.9.0:
+    - updated BetterTrader to 1.0.6
+    - updated BetterUI to 1.6.1
+    - updated CreatureLevelAndLootControl to 1.7
+    - updated CustomServerLoadingScreen to 0.3.1
 
 v1.8.0:
     - added CustomRaids 1.0.2
