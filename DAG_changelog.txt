@@ -31,6 +31,11 @@ Mods in use:
     - UsefulTrophies 1.1.0
     - ValheimBuildCamera
     - ValheimPlus 0.9.5.5
+
+v1.11.0:
+    - updated ValheimPlus to 0.9.6
+    - updated BetterUI to 1.6.4
+
     
 v1.10.0:
     - updated BetterUI to 1.6.3
