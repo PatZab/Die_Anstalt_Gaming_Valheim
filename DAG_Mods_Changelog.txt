@@ -1,0 +1,215 @@
+    Mods in use:
+    - AnyPortal 1.0.4
+    - AutomaticDoorMod 0.2.0
+    - BetterArchery 1.5.6
+    - BetterTrader 1.0.4
+    - BetterUI 1.6.4 
+    - ClockMod 1.1.1
+    - CraftFromContainers 2.1.1
+    - CreatureLevelAndLootControl 3.3
+    - CustomMeshes 0.2.0
+    - CustomRaids 1.0.2
+    - CustomServerLoadingScreen 0.3.2
+    - CustomTextures 2.2.0
+    - DiscardInventoryItems 0.3.6
+    - EmoteWheel 1.2.1
+    - Farm Grid 0.2.0
+    - FloatingItems 1.0.0
+    - InteractWhileBuilding 1.0.0
+    - JotunnLib 0.1.3
+    - MassFarming 1.2
+    - MasterChef 1.0.0
+    - MovePiece 4.0.0
+    - PlantingPlus 1.4.5
+    - Quickconnect 1.3.0
+    - RRRBetterRaids 0.1.2
+    - RRRCore 0.1.0
+    - RRRNpcs 0.1.3
+    - RRRSpawnVariety 0.1.0
+    - SkillGiveMoreCarryWeight 1.0.2
+    - SmartContainers 1.4.5
+    - TreeRespawn 0.6.1
+    - UseEquipmentInWater 0.2.2
+    - UsefulPaths 1.0.5
+    - UsefulTrophies 1.1.0
+    - ValheimBuildCamera
+    - ValheimPlus 0.9.6
+
+v1.16.0:
+    - updated BetterArchery to 1.5.6
+    - updated CraftFromContainers to 2.1.1
+    - updated CreatureLevelControl to 3.3
+    - updated CustomTextures to 2.2.0
+    - updated JotunnLib to 0.1.3
+    - updated PieceMove to 4.0.0
+    - updated RRRBetterRaids to 0.1.2
+    - updated RRRNpcs to 0.1.3
+    - updated TreeRespawn to 0.6.1
+
+v1.14.0:
+    - updated CreatureLevelAndLootControl to 2.5.1
+    - added RRRBetterRaids 0.1.0
+    - added RRRNpcs 0.1.1
+    - added RRRCore 0.1.0
+    - added RRRSpawnVariety 0.1.0
+
+v1.13.0:
+    - updated AutoSplitStack to 0.1.2
+    - updated BetterArchery to 1.5.2
+    - updated CreatureLevelAndLootControl to 2.5
+    - added MovePiece 3.0.0
+    - removed RetexturedTreesv2
+
+v1.12.0:
+    - updated CreatureLevelAndLootControl to 2.4
+    - updated CustomServerLoadingScreen to 0.3.2
+    - removed MovableChestInventory
+    - added BetterArchery 1.5.1
+    - added CharacterEdit 0.3.0
+
+v1.11.0:
+    - updated ValheimPlus to 0.9.6
+    - updated BetterUI to 1.6.4
+    - updated MassFarming to 1.2
+    - removed MovableChestInventory
+    - added BetterArchery 1.5.1
+    
+v1.10.0:
+    - updated BetterUI to 1.6.3
+    - updated CreatureLevelAndLootControl to 2.3
+    - updated SkillGiveMoreCarryWeight to 1.0.2
+    - updated SmartContainers to 1.5.1
+    - added ClockMod 1.1.1
+    - added MovableChestInventory 0.2.2
+    - added JotunnLib 0.1.1
+    - added MasterChef 1.0.0
+    - added RetexturedTreesv2 1.0
+
+v1.9.0:
+    - updated BetterTrader to 1.0.6
+    - updated BetterUI to 1.6.1
+    - updated CreatureLevelAndLootControl to 1.7
+    - updated CustomServerLoadingScreen to 0.3.1
+
+v1.8.0:
+    - added CustomRaids 1.0.2
+    - removed ValheimEventEnhancer
+
+
+v1.7.0:
+    - added CustomServerLoadingScreen 0.2.1
+    - updated CreatureLevelAndLootControl to 1.5.1
+
+v1.6.0:
+    - added CreatureLevelAndLootControl 1.4
+    - added EmoteWheel 1.2.1
+    - added MassFarming 1.1
+
+v1.5.0:
+    - updated ValheimPlus to 0.9.5.5
+    - updated CustomMeshes to 0.2.0
+    - updated UseEquipmentInWater to 0.2.2
+    - updated DiscardInventoryItems to 0.3.6
+    - updated AutomaticDoorMod to 0.2.0
+    - updated BetterTrader to 1.0.4
+    - updated UsefulPaths to 1.0.5
+    - updated CustomTextures to 2.0.1
+    - updated SmartContainers to 1.4.5
+    - added SkillGiveMoreCarryWeight 1.0.1
+    - removed Skillbased Carryweight 
+
+v1.4.0:
+    - removed ClockMod
+    - removed Simple Recycling
+    - removed Durability
+    - removed Build Helper
+    - added Smart Containers 1.2.1
+    - added Farm Grid 0.2.0
+    - added Useful Trophies 1.1.0
+    - added Better Trader 1.0.2
+    - updated Valheim Plus to 0.9.5.1
+    - updated Useful Paths to 1.0.4
+
+
+v1.3.5:
+    - added Useful Paths 1.0.0
+    - added Event Enhancer 0.1 (Server Side Only)
+    - updated Custom Textures to 1.7.1
+    - updated Tree Respawn to 0.5.0
+    - updated Simple Recycling to 0.0.11
+    - updated Custom Meshes to 0.1.5
+    - updated Automatic Door to Mod 0.0.5
+    - updated Planting Plus to 1.4.5
+    - updated BetterUI to 1.5.1 
+    - updated Craft From Containers to 1.9.0
+    - removed Auto Map Pins
+
+
+v1.3.0
+    - updated Valheim Plus to 0.9.4
+    - updated Simple Recycling to 0.0.7
+    - updated AnyPortal to 1.0.4
+    - updated Automatic Door to 0.0.3
+    - updated Valheim Build Camera to 1.4
+    - updated Tree Respawn to 0.2.0
+    - updated Berry Planting to 1.2
+    - removed Character Backup
+
+v1.2.0
+    - added Automatic Door 0.0.1
+    - updated Valheim Plus to 0.9.3
+    - updated Custom Textures to 1.1.2
+    - updated Berry Planting to 1.1.1
+
+v1.1.8:
+    
+    - added Berry Planting 1.0.0.0
+    - added Custom Textures 1.0.1
+    - added Floating Items 1.0.0
+    - updated Discard Inventory Items to 0.3.5
+    - updated Clock Mod to 0.8.4
+    - updated Valheim Build Camera 1.2
+    - updated Craft From Containers to 1.6.0
+    - updated Simple Recycling to 0.0.6
+    - updated Quickconnect to 1.3.0
+    - updated Custom Meshes to 0.1.4
+    - updated BetterUI to 1.4.2
+    - updated Use Equipment In Water to 0.2.1
+
+v1.1.71: (hotfix)
+    - updated Custom Meshes to 0.1.4
+
+v1.1.7:
+    - added Valheim Character Backup 1.1.2
+    - added Valheim Build Camera 1.1
+    - updated Simple Recycling to 0.0.5
+    - updated Custom Meshes to 0.1.3
+    - updated Craft From Containers to 1.5.0
+    - removed Remember IP Damnit (redundant)
+
+v1.1.6:
+    - added Skillbased Carryweight 1.0.0
+    - added Wattle Fencing (Fence Replacement)
+    - added CustomMeshes
+    - added Simple Recycling
+    - updated BetterUI to 1.4.1
+    - updated Quickconnect to 1.2.0
+    - updated Craft From Containers to 1.4.3
+    - updated InteractWhileBuilding to 1.0.0
+    - updated Discard Inventory Items to 0.3.0
+    
+v1.1.5:
+    - added DAG_changelog.txt
+    - added Auto Map Pins 1.0.0
+    - added Quickconnect 1.0.0
+    - updated Anyportal to 1.0.3
+    - updated Craft Build Smelt Cook Fuel Pull From Containers to 1.4.2
+    - changed value of Craft Build Smelt Cook Fuel Pull From Containers range from 50 to 80
+    - enabled difficulty changes by ValheimPlus 
+
+v1.1.4a:
+    - updated AnyPortal to 1.0.1
+    - updated Craft Build Smelt Cook Fuel Pull From Containers to 1.3.2
+
+Previous versions have not been tracked! :( 
+
