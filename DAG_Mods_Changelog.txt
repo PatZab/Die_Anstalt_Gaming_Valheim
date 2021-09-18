@@ -1,0 +1,6 @@
+v3.2.0:
+    - Added mod changelog to archive
+    - Added Better Archery v1.7.0
+    - Added Creature Level and Loot Control v4.4.3
+    - Updated Craft From Containers to v2.2.0
+    - Updated Discard Inventory Items to v0.7.0
